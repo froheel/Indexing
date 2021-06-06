@@ -27,3 +27,6 @@ PyChram is utilized as the IDE. Just press 1 to create the required index files 
 2) Search that query in the final inverted_index_terms.
 3) If it is found then display the documents that contain all the terms.
 4) Output is the form of: Sub_directory/documentName or No Result.
+
+## Running Code
+![code](https://github.com/froheel/Indexing/blob/main/outputs_on_entire_corpora/files_created_on_entire_corpora_successfully.PNG)
