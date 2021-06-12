@@ -37,5 +37,4 @@ run Main.py
 4) Output is the form of: Sub_directory/documentName or No Result.
 
 ## Running Code
-![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)
 ![code](https://github.com/froheel/Indexing/blob/main/outputs_on_entire_corpora/files_created_on_entire_corpora_successfully.PNG)
