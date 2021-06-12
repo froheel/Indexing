@@ -1,6 +1,12 @@
 # Indexing
 Python along with it's imported libraries are used to implement Indexing and Boolean Retrieval from the Indexes.
-PyChram is utilized as the IDE. Just press 1 to create the required index files and 2 for Boolean retrieval.
+
+## Running Instructions
+PyChram is utilized as the IDE.
+```
+run Main.py
+( press 1 to create the required index files ) or ( press 2 for Boolean retrieval & enter your query )
+```
 
 ## Pre-Processing
 1) Dir1, Dir2, Dir3 variables in Main.py need to point to the corpus1 Directories 1,2 and 3 respectively.
